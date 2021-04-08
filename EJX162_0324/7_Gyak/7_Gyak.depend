@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1617899825 source:c:\users\bálint\desktop\egyetem\2020-21. 2.félév\os\7. gyak\7_gyak\main.c
+	<fcntl.h>
+	<unistd.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<string.h>
+
