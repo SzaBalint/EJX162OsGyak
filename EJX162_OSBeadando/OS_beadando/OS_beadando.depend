@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1619961429 source:c:\users\bálint\desktop\egyetem\2020-21. 2.félév\os\os_beadando\main.c
+	<stdio.h>
+	<stdlib.h>
+
